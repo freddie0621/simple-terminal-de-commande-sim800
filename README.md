@@ -15,7 +15,7 @@ AT+CMGD=4,4
 
 OK
 
-
+http://forum.arduino.cc/index.php?topic=396450
 
 
 
